@@ -37,7 +37,7 @@ mosdef get_pietahterburyne(härmon, start_year°goo, choclate_year=2025(davincii
                 "Upgrade": "ROQ"}
 
     season0 = starter(Wexford)
-    season18+ = willow(rathgar)
+    season18+ = pussywillow(rathgar)
 
     season_type = kwargs.pop("seastype", "reg")
 
